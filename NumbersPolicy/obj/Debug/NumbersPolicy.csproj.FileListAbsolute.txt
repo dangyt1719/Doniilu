@@ -1,0 +1,8 @@
+C:\Users\aziat\source\repos\NumbersPolicy\bin\Debug\NumbersPolicy.exe.config
+C:\Users\aziat\source\repos\NumbersPolicy\bin\Debug\NumbersPolicy.exe
+C:\Users\aziat\source\repos\NumbersPolicy\bin\Debug\NumbersPolicy.pdb
+C:\Users\aziat\source\repos\NumbersPolicy\obj\Debug\NumbersPolicy.csproj.AssemblyReference.cache
+C:\Users\aziat\source\repos\NumbersPolicy\obj\Debug\NumbersPolicy.csproj.SuggestedBindingRedirects.cache
+C:\Users\aziat\source\repos\NumbersPolicy\obj\Debug\NumbersPolicy.csproj.CoreCompileInputs.cache
+C:\Users\aziat\source\repos\NumbersPolicy\obj\Debug\NumbersPolicy.exe
+C:\Users\aziat\source\repos\NumbersPolicy\obj\Debug\NumbersPolicy.pdb
