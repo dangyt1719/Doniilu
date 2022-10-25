@@ -1,0 +1,10 @@
+C:\Users\aziat\source\repos\Objects\bin\Debug\Objects.exe.config
+C:\Users\aziat\source\repos\Objects\bin\Debug\Objects.exe
+C:\Users\aziat\source\repos\Objects\bin\Debug\Objects.pdb
+C:\Users\aziat\source\repos\Objects\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\aziat\source\repos\Objects\obj\Debug\Objects.csproj.AssemblyReference.cache
+C:\Users\aziat\source\repos\Objects\obj\Debug\Objects.csproj.SuggestedBindingRedirects.cache
+C:\Users\aziat\source\repos\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\aziat\source\repos\Objects\obj\Debug\Objects.csproj.CopyComplete
+C:\Users\aziat\source\repos\Objects\obj\Debug\Objects.exe
+C:\Users\aziat\source\repos\Objects\obj\Debug\Objects.pdb
