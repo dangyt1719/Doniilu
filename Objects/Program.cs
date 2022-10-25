@@ -130,6 +130,7 @@ namespace Objects
 
             while (!validInput)
             {
+                 Console.Clear();
                 foreach (var item in values)
                 {
                     Console.WriteLine($"{values.IndexOf(item)+1}. {item.FirstName} {item.LastName}");
