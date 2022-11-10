@@ -1,0 +1,8 @@
+C:\Users\aziat\source\repos\ExamTasks\bin\Debug\ExamTasks.exe.config
+C:\Users\aziat\source\repos\ExamTasks\bin\Debug\ExamTasks.exe
+C:\Users\aziat\source\repos\ExamTasks\bin\Debug\ExamTasks.pdb
+C:\Users\aziat\source\repos\ExamTasks\obj\Debug\ExamTasks.csproj.AssemblyReference.cache
+C:\Users\aziat\source\repos\ExamTasks\obj\Debug\ExamTasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\aziat\source\repos\ExamTasks\obj\Debug\ExamTasks.csproj.CoreCompileInputs.cache
+C:\Users\aziat\source\repos\ExamTasks\obj\Debug\ExamTasks.exe
+C:\Users\aziat\source\repos\ExamTasks\obj\Debug\ExamTasks.pdb
